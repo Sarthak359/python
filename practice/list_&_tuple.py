@@ -58,3 +58,12 @@ print("\nindex:")
 print(a.index(1))
 
 print(type(a))
+
+
+print(list(range(0, -10, -1)))
+
+r = range(0, 20, 2)
+print(10 in r)
+print(r.index(10))
+print(r[5])
+print(r[:5])
