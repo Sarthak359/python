@@ -11,3 +11,5 @@ print(a.rstrip("ny"))
 x = "sarthak is good boy"
 print(x.split())
 print(list(range(0, -10, -1)))
+print(name.center(14, "."))
+print(name.endswith("th", 0, 5))
